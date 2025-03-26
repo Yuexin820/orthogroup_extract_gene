@@ -1,4 +1,3 @@
-## .pl <Heterotrichea_single_contract.significant> <Orthogroups.tsv>
 use strict;
 
 my ($geneFamily,$genes) = @ARGV;
